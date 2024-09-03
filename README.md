@@ -1,6 +1,6 @@
 # Arduino DJ Controller
 
-### Breadboard wiring with buttons and rotary knobs
+### Arduino & Breadboard wiring with buttons and rotary knob
 <img src="images/Project_Picture.png" alt="Breadboard" width="600"/>
 
 ## Overview
