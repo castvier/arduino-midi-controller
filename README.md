@@ -1,7 +1,7 @@
 # Arduino DJ Controller
 
 ### Breadboard wiring with buttons and rotary knobs
-![Breadboard](images/Project Picture.png)
+![Breadboard](images/Project_Picture.png)
 
 ## Overview
 This project implements a DJ controller using Arduino for the Comp 522 course. The controller interfaces with DJ software, allowing for hands-on control of various parameters through MIDI communication.
